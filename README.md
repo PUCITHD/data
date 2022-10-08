@@ -1,1 +1,1 @@
-# data
+# PUCIT Help Desk's Open Data which powers our platform.

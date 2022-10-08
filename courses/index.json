@@ -1,0 +1,25 @@
+{
+    "courses":[
+        {
+            "title": "Computer Vision",
+            "description": "Learn Computer Vision and Digital Image Processing.",
+            "lecturer": "Kashif Murtaza",
+            "lectures": 46,
+            "slug":"computer-vision"
+        },
+        {
+            "title":"Git and Version Control System",
+            "description":"Learn about git and version control management on windows os.",
+            "lecturer":"Bilal Shahzad",
+            "lectures": 14,
+            "slug":"git-and-version-control-management"
+        },
+        {
+            "title":"Operating System with Linux",
+            "description":"Learn about Linux Operating System.",
+            "lecturer":"Arif Butt",
+            "lectures": 14,
+            "slug":"git-and-version-control-management"
+        }
+    ]
+}
